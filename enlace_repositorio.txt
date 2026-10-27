@@ -1,0 +1,22 @@
+============================================================
+ENLACE DEL REPOSITORIO - Evidencia GA7-220501096-AA5-EV03
+============================================================
+
+Repositorio Git:
+
+https://github.com/TU_USUARIO/ecommerce-api
+
+(Reemplaza TU_USUARIO por tu nombre de usuario de GitHub
+y sube el proyecto al repositorio.)
+
+Instrucciones rápidas:
+
+1. Crea un repositorio nuevo en GitHub (vacío, sin README).
+2. En la carpeta del proyecto ejecuta:
+
+   git remote add origin https://github.com/TU_USUARIO/ecommerce-api.git
+   git branch -M main
+   git push -u origin main
+
+3. Copia el enlace del repositorio y actualiza este archivo.
+============================================================

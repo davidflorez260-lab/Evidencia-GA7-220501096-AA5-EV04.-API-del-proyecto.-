@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce-api",
+  "version": "1.0.0",
+  "description": "API E-Commerce - Evidencia GA7-220501096-AA5-EV03",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["api", "ecommerce", "sena", "nodejs"],
+  "author": "Alex David Florez",
+  "license": "ISC"
+}
