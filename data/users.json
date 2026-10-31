@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "usuario": "alex",
+    "contrasena": "1234",
+    "nombre": "alex",
+    "fechaRegistro": "2026-10-29T04:01:40.778Z"
+  },
+  {
+    "id": 2,
+    "usuario": "Maria",
+    "contrasena": "1234",
+    "nombre": "Maria Camila",
+    "fechaRegistro": "2026-10-31T03:08:10.187Z"
+  }
+]

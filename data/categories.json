@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nombre": "Electrónica",
+    "descripcion": "Dispositivos electrónicos",
+    "fechaCreacion": "2026-10-27T03:15:59.068Z"
+  },
+  {
+    "id": 2,
+    "nombre": "Ropa",
+    "descripcion": "Prendas de vestir",
+    "fechaCreacion": "2026-10-27T03:15:59.068Z"
+  },
+  {
+    "id": 3,
+    "nombre": "Hogar",
+    "descripcion": "Artículos para el hogar",
+    "fechaCreacion": "2026-10-27T03:15:59.068Z"
+  },
+  {
+    "id": 4,
+    "nombre": "Deportes",
+    "descripcion": "Artículos deportivos",
+    "fechaCreacion": "2026-10-29T04:09:54.485Z"
+  },
+  {
+    "id": 5,
+    "nombre": "Deportes",
+    "descripcion": "Artículos deportivos",
+    "fechaCreacion": "2026-10-29T04:12:14.885Z"
+  },
+  {
+    "id": 6,
+    "nombre": "Deportes",
+    "descripcion": "Artículos deportivos",
+    "fechaCreacion": "2026-10-30T04:42:26.529Z"
+  },
+  {
+    "id": 7,
+    "nombre": "Deportes",
+    "descripcion": "Artículos deportivos",
+    "fechaCreacion": "2026-10-31T03:09:50.015Z"
+  }
+]

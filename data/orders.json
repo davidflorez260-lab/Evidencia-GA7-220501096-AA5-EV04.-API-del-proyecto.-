@@ -1,0 +1,36 @@
+[
+  {
+    "id": 1,
+    "usuarioId": 1,
+    "items": [
+      {
+        "productoId": 1,
+        "nombre": "Auriculares Bluetooth",
+        "precio": 79000,
+        "cantidad": 2,
+        "subtotal": 158000
+      }
+    ],
+    "total": 158000,
+    "direccion": "Calle 10 #20-30",
+    "estado": "pendiente",
+    "fecha": "2026-10-29T04:18:46.122Z"
+  },
+  {
+    "id": 2,
+    "usuarioId": 1,
+    "items": [
+      {
+        "productoId": 1,
+        "nombre": "Auriculares Bluetooth",
+        "precio": 79000,
+        "cantidad": 2,
+        "subtotal": 158000
+      }
+    ],
+    "total": 158000,
+    "direccion": "Calle 10 #20-30",
+    "estado": "pendiente",
+    "fecha": "2026-10-31T03:19:47.137Z"
+  }
+]

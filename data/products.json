@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nombre": "Auriculares Bluetooth",
+    "descripcion": "Auriculares inalámbricos con cancelación de ruido",
+    "precio": 79000,
+    "stock": 18,
+    "categoriaId": 1,
+    "imagen": "",
+    "fechaCreacion": "2026-10-27T03:15:59.814Z",
+    "fechaActualizacion": "2026-10-31T03:17:47.877Z"
+  },
+  {
+    "id": 3,
+    "nombre": "Mouse gamer",
+    "descripcion": "Mouse óptico RGB",
+    "precio": 45000,
+    "stock": 30,
+    "categoriaId": 1,
+    "imagen": "",
+    "fechaCreacion": "2026-10-31T03:16:40.192Z"
+  }
+]
